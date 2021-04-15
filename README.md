@@ -1,6 +1,6 @@
 # terraform-ibmcloud-gen2-cluster
 
-Before we begin, you'll need to have TerraForm installed on your machine. To do so follow this guide https://learn.hashicorp.com/tutorials/terraform/install-cli
+Before we begin, you'll need to have TerraForm installed on your machine. To do so follow this [guide](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 **Respository structure**
 
@@ -31,6 +31,6 @@ terraform destroy
 
 **More info**
 
-This repo is based off the IBM Provider examples located here https://github.com/IBM-Cloud/terraform-provider-ibm/tree/master/examples/ibm-cluster/vpc-gen2-cluster
+This repo is based off the IBM Provider examples located [here](https://github.com/IBM-Cloud/terraform-provider-ibm/tree/master/examples/ibm-cluster/vpc-gen2-cluster)
 
-If you'd like more information on the IBM Cloud Provider for TerraForm, including how to set up more cloud resources follow this link https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs
+If you'd like more information on the IBM Cloud Provider for TerraForm, including how to set up more cloud resources follow this [link](https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs)
